@@ -1,2 +1,3 @@
 gv_Activeflag=activeflag
 gv_Tablename=tablename
+gv_Tablename1=tablename
