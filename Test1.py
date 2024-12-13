@@ -1,0 +1,2 @@
+gv_Activeflag=activeflag
+gv_Tablename=tablename
