@@ -1,5 +1,6 @@
 # Get The History Load Extract Parameter Scalar Variables
 
+print('welcome')
 gv_Activeflag=activeflag
 gv_Tablename=tablename
 gv_Startdate=startdate
